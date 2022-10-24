@@ -4,10 +4,10 @@
 "lab_name": "Green Grower Labs",
 "lab_ubi_license": "603400231",
 "lab_ccrs_license": "3242088918",
-"labresult_id": "LR.WF.WAJ416902.IN12A77N",
+"labresult_id": "LR.WF.WAJ416902.IN12A79Z",
 "coa": "",
 "sample": {
-"id": "WAJ416902.IN12A77N",
+"id": "WAJ416902.IN12A79Z",
 "sample_source_id": ""
 },
 "status": "pass",
@@ -44,7 +44,7 @@
 "id": "018NY6XC00LMHF4266DN94JPPX",
 "name": "water activity",
 "analyte_type": "shelf stability",
-"qom": "0.35",
+"qom": "0.34",
 "uom": "aw",
 "status": "pass"
 }
@@ -66,7 +66,7 @@
 "id": "018NY6XC00LMB0JPRM2SF8F9F2",
 "name": "THCA",
 "analyte_type": "cannabinoids",
-"qom": "20",
+"qom": "21",
 "uom": "pct",
 "status": "pass"
 },
@@ -74,7 +74,7 @@
 "id": "018NY6XC00PXG4PH0TXS014VVW",
 "name": "total-thc",
 "analyte_type": "cannabinoids",
-"qom": "18",
+"qom": "19",
 "uom": "pct",
 "status": "pass"
 },
@@ -106,7 +106,7 @@
 "id": "018NY6XC00SAE8Q4JSMF40YSZ3",
 "name": "total cannabinoids",
 "analyte_type": "Cannabinoids",
-"qom": "20",
+"qom": "21",
 "uom": "pct",
 "status": "pass"
 }
