@@ -20,7 +20,7 @@
           "id": "018NY6XC00LM49CV7QP9KM9QH9",
           "name": "d9-THC",
           "analyte_type": "cannabinoids",
-          "qom": "7.1",
+          "qom": "74",
           "uom": "pct",
           "status": "pass"
         },
@@ -28,7 +28,7 @@
           "id": "018NY6XC00LMB0JPRM2SF8F9F2",
           "name": "THCA",
           "analyte_type": "cannabinoids",
-          "qom": "76",
+          "qom": "0.18",
           "uom": "pct",
           "status": "pass"
         },
@@ -44,7 +44,7 @@
           "id": "018NY6XC00LMK7KHD3HPW0Y90N",
           "name": "CBD",
           "analyte_type": "cannabinoids",
-          "qom": "0.57",
+          "qom": "2.9",
           "uom": "pct",
           "status": "pass"
         },
@@ -52,7 +52,7 @@
           "id": "018NY6XC00LMENDHEH2Y32X903",
           "name": "CBDA",
           "analyte_type": "cannabinoids",
-          "qom": "0.14",
+          "qom": "0.18",
           "uom": "pct",
           "status": "pass"
         },
@@ -60,7 +60,7 @@
           "id": "018NY6XC00DEEZ41QBXR2E3T97",
           "name": "total-cbd",
           "analyte_type": "cannabinoids",
-          "qom": "0.69",
+          "qom": "3.1",
           "uom": "pct",
           "status": "pass"
         },
@@ -68,7 +68,7 @@
           "id": "018NY6XC00SAE8Q4JSMF40YSZ3",
           "name": "total cannabinoids",
           "analyte_type": "Cannabinoids",
-          "qom": "84",
+          "qom": "77",
           "uom": "pct",
           "status": "pass"
         }
