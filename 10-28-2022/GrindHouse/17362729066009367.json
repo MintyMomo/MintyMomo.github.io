@@ -82,7 +82,7 @@
           "id": "018NY6XC00LMK7KHD3HPW0Y90N",
           "name": "CBD",
           "analyte_type": "cannabinoids",
-          "qom": "12",
+          "qom": ".12",
           "uom": "pct",
           "status": "pass"
         },
