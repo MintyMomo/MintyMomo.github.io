@@ -1,0 +1,173 @@
+{
+  "document_name": "WCIA Lab Result Schema",
+  "document_schema_version": "1.3.0",
+  "lab_name": "Green Grower Labs",
+  "lab_ubi_license": "603400231",
+  "lab_ccrs_license": "3242088918",
+  "labresult_id": "LR.CC.19022832589643095",
+  "coa": "",
+  "sample": {
+    "id": "19022832589643095",
+    "sample_source_id": ""
+  },
+  "status": "pass",
+  "metric_list": [
+    {
+      "test_id": "018NY6XC00QZD3QNR0VKBCC2T4",
+      "test_type": "cannabinoids",
+      "metrics": [
+        {
+          "id": "018NY6XC00LM49CV7QP9KM9QH9",
+          "name": "d9-THC",
+          "analyte_type": "cannabinoids",
+          "qom": "0.28",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMB0JPRM2SF8F9F2",
+          "name": "THCA",
+          "analyte_type": "cannabinoids",
+          "qom": "25",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00PXG4PH0TXS014VVW",
+          "name": "total-thc",
+          "analyte_type": "cannabinoids",
+          "qom": "22",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMK7KHD3HPW0Y90N",
+          "name": "CBD",
+          "analyte_type": "cannabinoids",
+          "qom": "0.11",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMENDHEH2Y32X903",
+          "name": "CBDA",
+          "analyte_type": "cannabinoids",
+          "qom": "0.0",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00DEEZ41QBXR2E3T97",
+          "name": "total-cbd",
+          "analyte_type": "cannabinoids",
+          "qom": "0.11",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00SAE8Q4JSMF40YSZ3",
+          "name": "total cannabinoids",
+          "analyte_type": "Cannabinoids",
+          "qom": "25",
+          "uom": "pct",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "test_id": "018NY6XC0066H2G9CBJ3Z6SAHK",
+      "test_type": "terpene assay",
+      "status": "pass",
+      "metrics": [
+        {
+          "id": "018NY6XC00LMCG3GPPN8QDAGAQ",
+          "name": "alpha-pinene",
+          "analyte_type": "terpene",
+          "qom": "0.15",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LM5RP8VV8TQAJ92A",
+          "name": "camphene",
+          "analyte_type": "terpene",
+          "qom": "0.03",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMH4TQXDXKH97K87",
+          "name": "myrcene",
+          "analyte_type": "terpene",
+          "qom": "0.12",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LM733KQWC064C0X8",
+          "name": "beta-pinene",
+          "analyte_type": "terpene",
+          "qom": "0.12",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMKMYDTB18499106",
+          "name": "carene",
+          "analyte_type": "terpene",
+          "qom": "0",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LM6J8FQHSXARDVMZ",
+          "name": "limonene",
+          "analyte_type": "terpene",
+          "qom": "0.36",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMBFR51SFFGQJXRF",
+          "name": "terpinolene",
+          "analyte_type": "terpene",
+          "qom": "0.02",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMK42ZVHZYKNQ1P0",
+          "name": "linalool",
+          "analyte_type": "terpene",
+          "qom": "0.07",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LM1FFPX84N11Y960",
+          "name": "geraniol",
+          "analyte_type": "terpene",
+          "qom": "0",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "01FQFG9EJB2ZNCCGA3W92QF334",
+          "name": "caryophyllene",
+          "analyte_type": "terpene",
+          "qom": "0.33",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMQF9D59E5T0QA0A",
+          "name": "humulene",
+          "analyte_type": "terpene",
+          "qom": "0.11",
+          "uom": "pct",
+          "status": "pass"
+        }
+      ]
+    }
+  ]
+}
