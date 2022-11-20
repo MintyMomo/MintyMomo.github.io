@@ -1,0 +1,649 @@
+{
+  "document_name": "WCIA Lab Result Schema",
+  "document_schema_version": "1.3.0",
+  "lab_name": "Green Grower Labs",
+  "lab_ubi_license": "603400231",
+  "lab_ccrs_license": "3242088918",
+  "labresult_id": "LR.SW.42425630938",
+  "coa": "",
+  "sample": {
+    "id": "42425630938",
+    "sample_source_id": ""
+  },
+  "status": "pass",
+  "metric_list": [
+    {
+      "test_id": "01FR3QCB61W03ADV6PXVFR7KJG",
+      "test_type": "foreign matter assay",
+      "status": "pass",
+      "metrics": [
+        {
+          "id": "018NY6XC00LMQAZZSDXPYH62SS",
+          "name": "plant stem",
+          "analyte_type": "foreign matter",
+          "qom": "0",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMA50497RDC53DB5",
+          "name": "plant seed",
+          "analyte_type": "foreign matter",
+          "qom": "0",
+          "uom": "pct",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "test_id": "01FR3QCB61RWVXNDWBCTTG2Y61",
+      "test_type": "water activity assay",
+      "status": "pass",
+      "metrics": [
+        {
+          "id": "018NY6XC00LMHF4266DN94JPPX",
+          "name": "water activity",
+          "analyte_type": "shelf stability",
+          "qom": "0.31",
+          "uom": "aw",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "test_id": "018NY6XC00QZD3QNR0VKBCC2T4",
+      "test_type": "cannabinoids",
+      "metrics": [
+        {
+          "id": "018NY6XC00LM49CV7QP9KM9QH9",
+          "name": "d9-THC",
+          "analyte_type": "cannabinoids",
+          "qom": "0.18",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMB0JPRM2SF8F9F2",
+          "name": "THCA",
+          "analyte_type": "cannabinoids",
+          "qom": "30",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00PXG4PH0TXS014VVW",
+          "name": "total-thc",
+          "analyte_type": "cannabinoids",
+          "qom": "26",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMK7KHD3HPW0Y90N",
+          "name": "CBD",
+          "analyte_type": "cannabinoids",
+          "qom": "0.10",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMENDHEH2Y32X903",
+          "name": "CBDA",
+          "analyte_type": "cannabinoids",
+          "qom": "0.0",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00DEEZ41QBXR2E3T97",
+          "name": "total-cbd",
+          "analyte_type": "cannabinoids",
+          "qom": "0.10",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00SAE8Q4JSMF40YSZ3",
+          "name": "total cannabinoids",
+          "analyte_type": "Cannabinoids",
+          "qom": "30",
+          "uom": "pct",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "test_id": "01FR3QCB61D6Y9MZ76ZTBJTP2Y",
+      "test_type": "microbial assay",
+      "status": "pass",
+      "metrics": [
+        {
+          "id": "018NY6XC00LMS96WE6KHKNP52T",
+          "name": "salmonella",
+          "analyte_type": "microbe",
+          "qom": "0",
+          "uom": "cfu",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LM638QCGB50ZKYKJ",
+          "name": "bile-tolerant-bacteria",
+          "analyte_type": "microbe",
+          "qom": "0",
+          "uom": "cfu",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LM7S8H2RT4K4GYME",
+          "name": "e-coli",
+          "analyte_type": "microbe",
+          "qom": "0",
+          "uom": "cfu",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "test_id": "018NY6XC00K1W4JR972BWDV491",
+      "test_type": "mycotoxin assay",
+      "status": "pass",
+      "metrics": [
+        {
+          "id": "018NY6XC00LMK15566W1G0ZH5X",
+          "name": "ochratoxin a",
+          "analyte_type": "mycotoxin",
+          "qom": "0",
+          "uom": "ppb",
+          "status": "pass"
+        },
+        {
+          "id": "01FRK0CC1G0SMZT4RW3WR8QB9R",
+          "name": "total aflatoxins",
+          "analyte_type": "mycotoxin",
+          "qom": "0",
+          "uom": "ppb",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "test_id": "018NY6XC0041G41TQW7V4S456K",
+      "test_type": "pesticide assay",
+      "status": "pass",
+      "metrics": [
+        {
+          "id": "01FRK0CC1G0SMZT4RW3WR8QB9T",
+          "name": "total abamectins",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMME2KAJD5CJZCFC",
+          "name": "acephate",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMHPJYYDQT7FCM8P",
+          "name": "acetamiprid",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMHPJYYDQT7FCM8P",
+          "name": "acetamiprid",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LME4KJM6Y8XP8WGA",
+          "name": "aldicarb",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00KKW13KEN6JWKZNJF",
+          "name": "azoxystrobin",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC001CR4C8SJEZQE1NYD",
+          "name": "bifenazate",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMPH4K88KC1PKJVJ",
+          "name": "bifenthrin",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LM3P767WQ0KSFARZ",
+          "name": "boscalid",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMZP42VJGA642TEB",
+          "name": "carbaryl",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LM7N4CCX5ZRVADDN",
+          "name": "carbofuran",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMKKEFRB9BJ8KP0P",
+          "name": "chlorantraniliprole",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMR0FZPVYAEJ8JET",
+          "name": "chlorfenapyr",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMXCM3VG0XGR6KAH",
+          "name": "chlorpyrifos",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LM230ECKQSRFZ2BE",
+          "name": "clofentezine",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMCQDJ36Y13GX6W3",
+          "name": "cyfluthrin",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMCQDJ36Y13GX6W3",
+          "name": "cypermethrin",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LM8H6MET0WJ2YCV1",
+          "name": "daminozide",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMXVVJP95SCEWYMJ",
+          "name": "dichlorvos",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LM1FYB8674M2X435",
+          "name": "diazinon",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMMGQYZ01JNTDSZ1",
+          "name": "dimethoate",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMYBVS4P9WE8MT73",
+          "name": "ethoprophos",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMJHEQ07C7YKJBFM",
+          "name": "etofenprox",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMNPCTGHS6PVWKS3",
+          "name": "etoxazole",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMGN496XNG04YCKA",
+          "name": "fenoxycarb",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LM1NGMNDNYD3R0HE",
+          "name": "fenpyroximate",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LM98WRGGCSFYYGVX",
+          "name": "fipronil",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMZMT6NYFV6QM9JH",
+          "name": "flonicamid",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMZ91MVJB81J4JQT",
+          "name": "fludioxonil",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMADJX0GMMS5MXVB",
+          "name": "hexythiazox",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMX1R3RFFRFZS8T4",
+          "name": "imazalil",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMR9Z32S7WHPBZP9",
+          "name": "imidacloprid",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LM4VRHKTYTJJRDPW",
+          "name": "kresoxim-methyl",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMEN8F7VNXYV7HCS",
+          "name": "malathion",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMMFPYJ25XC5QTTQ",
+          "name": "metalaxyl",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMC4048KGG4SR6WF",
+          "name": "methiocarb",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LM7WBZ76X1E3T868",
+          "name": "methomyl",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LM4N6RPDAC97NM9V",
+          "name": "methyl parathion",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMDFT7RQ47H5K97R",
+          "name": "mgk 264",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMN56HSR1X5ACEJB",
+          "name": "myclobutanil",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMSCF0SS8VVJ9DE5",
+          "name": "naled",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LM83VNPJMHTKX5F0",
+          "name": "oxamyl",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMV3YF9F83621G84",
+          "name": "paclobutrazol",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LM3ZJH23WAKV7JEB",
+          "name": "total permethrins",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMZ95MW0N3JPZ056",
+          "name": "phosmet",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LM6VF2D0V998AY9Q",
+          "name": "piperonyl butoxide",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMKX28NVG7PJT5WJ",
+          "name": "prallethrin",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LM6T0NCQGXBCSNCS",
+          "name": "propiconazole",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMD2VKZ8FHZ3F3X8",
+          "name": "propoxur",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "01FRK0CC1G0SMZT4RW3WR8QB9W",
+          "name": "total pyrethrins",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMH66XZD64ZDTHZW",
+          "name": "pyridaben",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "01FRK0CC1G0SMZT4RW3WR8QB9X",
+          "name": "total spinosads",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMT9BF2M636RZBZX",
+          "name": "spiromesifen",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMWDVDHEYRS6058S",
+          "name": "spirotetramat",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMQ6AM5TE0FYPN2R",
+          "name": "spiroxamine",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMT8QJD3BG6CNXA8",
+          "name": "tebuconazole",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMMFQB5HBHJBQ9BS",
+          "name": "thiacloprid",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMCH7YXS32M4PNZF",
+          "name": "thiamethoxam",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMRG0A40VCNVW3YX",
+          "name": "trifloxystrobin",
+          "analyte_type": "pesticide",
+          "qom": "0",
+          "uom": "ppm",
+          "status": "pass"
+        }
+      ]
+    }
+  ]
+}
