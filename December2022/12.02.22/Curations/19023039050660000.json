@@ -654,7 +654,7 @@
           "id": "018NY6XC00LMCG3GPPN8QDAGAQ",
           "name": "alpha-pinene",
           "analyte_type": "terpene",
-          "qom": "0",
+          "qom": "0.11",
           "uom": "pct",
           "status": "pass"
         },
@@ -662,7 +662,7 @@
           "id": "018NY6XC00LM5RP8VV8TQAJ92A",
           "name": "camphene",
           "analyte_type": "terpene",
-          "qom": "0",
+          "qom": "0.05",
           "uom": "pct",
           "status": "pass"
         },
@@ -670,7 +670,7 @@
           "id": "018NY6XC00LMH4TQXDXKH97K87",
           "name": "myrcene",
           "analyte_type": "terpene",
-          "qom": "0",
+          "qom": "0.33",
           "uom": "pct",
           "status": "pass"
         },
@@ -678,7 +678,7 @@
           "id": "018NY6XC00LM733KQWC064C0X8",
           "name": "beta-pinene",
           "analyte_type": "terpene",
-          "qom": "0",
+          "qom": "0.18",
           "uom": "pct",
           "status": "pass"
         },
@@ -686,7 +686,7 @@
           "id": "018NY6XC00LMKMYDTB18499106",
           "name": "carene",
           "analyte_type": "terpene",
-          "qom": "0",
+          "qom": "0.02",
           "uom": "pct",
           "status": "pass"
         },
@@ -694,7 +694,7 @@
           "id": "018NY6XC00LM6J8FQHSXARDVMZ",
           "name": "limonene",
           "analyte_type": "terpene",
-          "qom": "0",
+          "qom": "0.89",
           "uom": "pct",
           "status": "pass"
         },
@@ -702,7 +702,7 @@
           "id": "018NY6XC00LMBFR51SFFGQJXRF",
           "name": "terpinolene",
           "analyte_type": "terpene",
-          "qom": "0",
+          "qom": "0.03",
           "uom": "pct",
           "status": "pass"
         },
@@ -710,7 +710,7 @@
           "id": "018NY6XC00LMK42ZVHZYKNQ1P0",
           "name": "linalool",
           "analyte_type": "terpene",
-          "qom": "0",
+          "qom": "0.38",
           "uom": "pct",
           "status": "pass"
         },
@@ -726,7 +726,7 @@
           "id": "01FQFG9EJB2ZNCCGA3W92QF334",
           "name": "caryophyllene",
           "analyte_type": "terpene",
-          "qom": "0",
+          "qom": "0.48",
           "uom": "pct",
           "status": "pass"
         },
@@ -734,7 +734,7 @@
           "id": "018NY6XC00LMQF9D59E5T0QA0A",
           "name": "humulene",
           "analyte_type": "terpene",
-          "qom": "0",
+          "qom": "0.21",
           "uom": "pct",
           "status": "pass"
         }
