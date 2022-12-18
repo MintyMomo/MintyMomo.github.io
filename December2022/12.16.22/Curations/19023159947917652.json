@@ -1,0 +1,44 @@
+{
+	"document_name": "WCIA Lab Result Schema",
+	"document_schema_version": "1.3.0",
+	"lab_name": "Green Grower Labs",
+	"lab_ubi_license": "603400231",
+	"lab_ccrs_license": "3242088918",
+	"labresult_id": "LR.CC.19023159947917652",
+	"coa": "",
+	"sample": {
+		"id": "19023159947917652",
+		"sample_source_id": ""
+	},
+	"status": "pass",
+	"metric_list": [{
+		"test_id": "01FR3QCB61D6Y9MZ76ZTBJTP2Y",
+		"test_type": "microbial assay",
+		"status": "pass",
+		"metrics": [{
+				"id": "018NY6XC00LMS96WE6KHKNP52T",
+				"name": "salmonella",
+				"analyte_type": "microbe",
+				"qom": "0",
+				"uom": "cfu",
+				"status": "pass"
+			},
+			{
+				"id": "018NY6XC00LM638QCGB50ZKYKJ",
+				"name": "bile-tolerant-bacteria",
+				"analyte_type": "microbe",
+				"qom": "40",
+				"uom": "cfu",
+				"status": "pass"
+			},
+			{
+				"id": "018NY6XC00LM7S8H2RT4K4GYME",
+				"name": "e-coli",
+				"analyte_type": "microbe",
+				"qom": "0",
+				"uom": "cfu",
+				"status": "pass"
+			}
+		]
+	}]
+}
