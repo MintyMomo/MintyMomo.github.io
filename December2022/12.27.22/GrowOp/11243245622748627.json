@@ -1,0 +1,78 @@
+{
+  "document_name": "WCIA Lab Result Schema",
+  "document_schema_version": "1.3.0",
+  "lab_name": "Green Grower Labs",
+  "lab_ubi_license": "603400231",
+  "lab_ccrs_license": "3242088918",
+  "labresult_id": "LR.GO.11243245622748627",
+  "coa": "",
+  "sample": {
+    "id": "11243245622748627",
+    "sample_source_id": ""
+  },
+  "status": "pass",
+  "metric_list": [
+      {
+      "test_id": "018NY6XC00QZD3QNR0VKBCC2T4",
+      "test_type": "cannabinoids",
+      "metrics": [
+        {
+          "id": "018NY6XC00LM49CV7QP9KM9QH9",
+          "name": "d9-THC",
+          "analyte_type": "cannabinoids",
+          "qom": "18",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMB0JPRM2SF8F9F2",
+          "name": "THCA",
+          "analyte_type": "cannabinoids",
+          "qom": "22",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00PXG4PH0TXS014VVW",
+          "name": "total-thc",
+          "analyte_type": "cannabinoids",
+          "qom": "37",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMK7KHD3HPW0Y90N",
+          "name": "CBD",
+          "analyte_type": "cannabinoids",
+          "qom": "0.78",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00LMENDHEH2Y32X903",
+          "name": "CBDA",
+          "analyte_type": "cannabinoids",
+          "qom": "0.0",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00DEEZ41QBXR2E3T97",
+          "name": "total-cbd",
+          "analyte_type": "cannabinoids",
+          "qom": "0.78",
+          "uom": "pct",
+          "status": "pass"
+        },
+        {
+          "id": "018NY6XC00SAE8Q4JSMF40YSZ3",
+          "name": "total cannabinoids",
+          "analyte_type": "Cannabinoids",
+          "qom": "41",
+          "uom": "pct",
+          "status": "pass"
+        }
+      ]
+    }
+  ]
+}
